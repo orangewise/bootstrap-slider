@@ -50,7 +50,7 @@
     "grunt-contrib-jasmine": "~1.0.3",
     "grunt-template": "~1.0.0",
     "grunt-open": "~0.2.2",
-    "bower": "1.7.9",
+    "bower": "1.8.0",
     "grunt-contrib-less": "~1.4.0",
     "grunt-header": "^1.0.0",
     "grunt-contrib-clean": "^1.0.0",
